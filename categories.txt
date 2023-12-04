@@ -1,0 +1,4 @@
+RR: Reading Response
+ACD: After Discussion
+GR: Grading
+WK: Workshop
